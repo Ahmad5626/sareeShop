@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://testament.myshopify.com/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://testament.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://testament.myshopify.com/de/collections/dresses.atom"/>
+  <title>Testament - Genesis</title>
+  <updated>2021-03-05T15:47:46-05:00</updated>
+  <author>
+    <name>Testament - Genesis</name>
+  </author>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491728948</id>
+    <published>2021-03-05T15:47:46-05:00</published>
+    <updated>2021-03-05T15:47:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/tara-dress"/>
+    <title>Tara Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>IM JUST A GIRL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio15414.jpg?v=1614961324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>IM JUST A GIRL<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>6 / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-PINK</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>8 / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-PINK</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>10 / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-PINK</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>12 / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-PINK</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>6 / Navy</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-NAVY</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>8 / Navy</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-NAVY</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>10 / Navy</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-NAVY</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491728948</id>
+      <title>12 / Navy</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>IM10907-NAVY</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491663412</id>
+    <published>2021-03-05T15:47:46-05:00</published>
+    <updated>2021-03-05T15:47:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/breanna-dress"/>
+    <title>Noelle Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>WHITE CLOSET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio14822.jpg?v=1614961310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>WHITE CLOSET<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491663412</id>
+      <title>6</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>TFE7565-D-1-ORANGE</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491663412</id>
+      <title>8</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>TFE7565-D-1-ORANGE</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491663412</id>
+      <title>10</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>TFE7565-D-1-ORANGE</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491663412</id>
+      <title>12</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>TFE7565-D-1-ORANGE</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491663412</id>
+      <title>14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>TFE7565-D-1-ORANGE</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491630644</id>
+    <published>2021-03-05T15:47:46-05:00</published>
+    <updated>2021-03-05T15:47:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/scarlett-dress"/>
+    <title>Scarlett Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>YH &amp; CO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13227.jpg?v=1614961302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>YH &amp; CO<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491630644</id>
+      <title>6</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>LUX2067-BEIGE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491630644</id>
+      <title>8</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>LUX2067-BEIGE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491630644</id>
+      <title>10</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>LUX2067-BEIGE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491630644</id>
+      <title>12</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>LUX2067-BEIGE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491630644</id>
+      <title>14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>LUX2067-BEIGE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491597876</id>
+    <published>2021-03-05T15:47:45-05:00</published>
+    <updated>2021-03-05T15:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/reese-dress"/>
+    <title>Reese Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>My Girl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/20_12_03NatStudio1066.jpg?v=1614961296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>My Girl<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>6 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-PINK</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>8 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-PINK</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>10 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-PINK</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>12 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-PINK</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>14 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-PINK</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>6 / Gingham</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-BEIGE</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>8 / Gingham</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-BEIGE</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>10 / Gingham</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-BEIGE</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>12 / Gingham</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-BEIGE</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491597876</id>
+      <title>14 / Gingham</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100284-BEIGE</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491565108</id>
+    <published>2021-03-05T15:47:45-05:00</published>
+    <updated>2021-03-05T15:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/melody-dress"/>
+    <title>Melody Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>PEARL &amp; SEA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio14998.jpg?v=1614961285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>PEARL &amp; SEA<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Gingham</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491565108</id>
+      <title>6</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>EL8219MP-3-PURPLE</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491565108</id>
+      <title>8</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>EL8219MP-3-PURPLE</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491565108</id>
+      <title>10</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>EL8219MP-3-PURPLE</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491565108</id>
+      <title>12</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>EL8219MP-3-PURPLE</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491565108</id>
+      <title>14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>EL8219MP-3-PURPLE</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491532340</id>
+    <published>2021-03-05T15:47:45-05:00</published>
+    <updated>2021-03-05T15:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/monika-dress"/>
+    <title>Monika Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>REVERSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio14901.jpg?v=1614961279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>REVERSE<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Mocha</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>XS / Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-1-BLACK</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>S / Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-1-BLACK</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>M / Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-1-BLACK</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>L / Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-1-BLACK</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-1-BLACK</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>XS / Mocha</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-3-MOCHA</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>S / Mocha</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-3-MOCHA</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>M / Mocha</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-3-MOCHA</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>L / Mocha</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-3-MOCHA</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491532340</id>
+      <title>XL / Mocha</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20862-3-MOCHA</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491434036</id>
+    <published>2021-03-05T15:47:45-05:00</published>
+    <updated>2021-03-05T15:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/laurina-dress"/>
+    <title>Laurina Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Delilah</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13717.jpg?v=1614961262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Delilah<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sage</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491434036</id>
+      <title>6</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>FC12200869-2-SAGE</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491434036</id>
+      <title>8</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>FC12200869-2-SAGE</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491434036</id>
+      <title>10</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>FC12200869-2-SAGE</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491434036</id>
+      <title>12</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>FC12200869-2-SAGE</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491434036</id>
+      <title>14</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>FC12200869-2-SAGE</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491368500</id>
+    <published>2021-03-05T15:47:44-05:00</published>
+    <updated>2021-03-05T15:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/izzy-dress"/>
+    <title>Izzy Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Girl and the Sun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio15199.jpg?v=1614976682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Girl and the Sun<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Print</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>XS / Yellow</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-FLORAL</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-FLORAL</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-FLORAL</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-FLORAL</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>XS / Beige</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-BEIGE</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>S / Beige</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-BEIGE</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>M / Beige</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-BEIGE</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491368500</id>
+      <title>L / Beige</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>GS599D-BEIGE</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491302964</id>
+    <published>2021-03-05T15:47:44-05:00</published>
+    <updated>2021-03-05T15:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/jordan-dress"/>
+    <title>Jordan Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>My Girl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210218TaneishaStudio13991.jpg?v=1614976813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>My Girl<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>6 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-BLACK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>8 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-BLACK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>10 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-BLACK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>12 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-BLACK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>14 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-BLACK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>6 / Chocolate</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-CHOCOLATE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>8 / Chocolate</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-CHOCOLATE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>10 / Chocolate</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-CHOCOLATE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>12 / Chocolate</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-CHOCOLATE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>14 / Chocolate</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-CHOCOLATE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>6 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-WHITE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>8 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-WHITE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>10 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-WHITE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>12 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-WHITE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491302964</id>
+      <title>14 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>100388-WHITE</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491270196</id>
+    <published>2021-03-05T15:47:44-05:00</published>
+    <updated>2021-03-05T15:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/ivy-dress"/>
+    <title>Ivy Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>REVERSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13164.jpg?v=1614961214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>REVERSE<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491270196</id>
+      <title>XS</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20853-1-BLACK</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491270196</id>
+      <title>S</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20853-1-BLACK</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491270196</id>
+      <title>M</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20853-1-BLACK</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491270196</id>
+      <title>L</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20853-1-BLACK</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491270196</id>
+      <title>XL</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>20853-1-BLACK</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491171892</id>
+    <published>2021-03-05T15:47:43-05:00</published>
+    <updated>2021-03-05T15:47:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/arielle-dress"/>
+    <title>Arielle Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>PINK DIAMOND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210218TaneishaStudio14714.jpg?v=1614961203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>PINK DIAMOND<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Rust</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>6 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-RUST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>8 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-RUST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>10 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-RUST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>12 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-RUST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>14 / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-RUST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>6 / Rust</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>8 / Rust</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>10 / Rust</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>12 / Rust</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491171892</id>
+      <title>14 / Rust</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>DA4050#-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491139124</id>
+    <published>2021-03-05T15:47:43-05:00</published>
+    <updated>2021-03-05T15:47:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/annie-dress"/>
+    <title>Annie Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Girl and the Sun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13415.jpg?v=1614961192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Girl and the Sun<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491139124</id>
+      <title>XS</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>GS601D-PEACH</s:sku>
+      <s:grams>324</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491139124</id>
+      <title>S</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>GS601D-PEACH</s:sku>
+      <s:grams>324</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491139124</id>
+      <title>M</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>GS601D-PEACH</s:sku>
+      <s:grams>324</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491139124</id>
+      <title>L</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>GS601D-PEACH</s:sku>
+      <s:grams>324</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/de/products/6536491106356</id>
+    <published>2021-03-05T15:47:43-05:00</published>
+    <updated>2021-03-05T15:47:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/de/products/april-dress"/>
+    <title>April Dress</title>
+    <s:type>dresses</s:type>
+    <s:vendor>BAGIRA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio12922.jpg?v=1614961182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>BAGIRA<br>
+        <strong>Art: </strong>dresses<br>
+        <strong>Preis: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Ivory</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Rust</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>S / Rust</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-RUST</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>M / Rust</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-RUST</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>L / Rust</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-RUST</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>S / Ivory</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-IVORY</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>M / Ivory</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-IVORY</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/de/products/6536491106356</id>
+      <title>L / Ivory</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10338-IVORY</s:sku>
+      <s:grams>302</s:grams>
+    </s:variant>
+  </entry>
+</feed>

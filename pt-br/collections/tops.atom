@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://testament.myshopify.com/pt-br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://testament.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://testament.myshopify.com/pt-br/collections/tops.atom"/>
+  <title>Testament - Genesis</title>
+  <updated>2021-03-05T15:47:50-05:00</updated>
+  <author>
+    <name>Testament - Genesis</name>
+  </author>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+    <published>2021-03-05T15:47:50-05:00</published>
+    <updated>2021-03-05T15:47:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/shae-top"/>
+    <title>Shae Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>SOUL SPARROW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio15091.jpg?v=1614961518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>SOUL SPARROW<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-PINK</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-PINK</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-PINK</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>XL / Pink</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-PINK</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-BLUE</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-BLUE</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-BLUE</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492515380</id>
+      <title>XL / Blue</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>SP20B06E-BLUE</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+    <published>2021-03-05T15:47:50-05:00</published>
+    <updated>2021-03-05T15:47:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/echo-top"/>
+    <title>Scout Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>THANNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_14TaneishaStudio8351.jpg?v=1614961506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>THANNE<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>6 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-WHITE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>8 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-WHITE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>10 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-WHITE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>12 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-WHITE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>6 / Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-BLUE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>8 / Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-BLUE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>10 / Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-BLUE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492482612</id>
+      <title>12 / Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>89381-BLUE</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492351540</id>
+    <published>2021-03-05T15:47:50-05:00</published>
+    <updated>2021-03-05T15:47:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/mackenzie-top"/>
+    <title>Mackenzie Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>IVORY AND CHAIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210218TaneishaStudio14409.jpg?v=1614961498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>IVORY AND CHAIN<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492351540</id>
+      <title>One size</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>ICK15-BEIGE</s:sku>
+      <s:grams>316</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492318772</id>
+    <published>2021-03-05T15:47:50-05:00</published>
+    <updated>2021-03-05T15:47:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/paige-top"/>
+    <title>Paige Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>LITTLE LIES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_07TaneishaStudio6839_4101163d-ebf1-41ac-a529-e9f87ed24102.jpg?v=1614961490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>LITTLE LIES<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492318772</id>
+      <title>8</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>M-20100103-WHITE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492318772</id>
+      <title>10</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>M-20100103-WHITE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492318772</id>
+      <title>12</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>M-20100103-WHITE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492318772</id>
+      <title>14</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>M-20100103-WHITE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+    <published>2021-03-05T15:47:49-05:00</published>
+    <updated>2021-03-05T15:47:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/maggie-top"/>
+    <title>Maggie Linen Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>LITTLE LIES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_07TaneishaStudio6260.jpg?v=1614961482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>LITTLE LIES<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>210107</s:tag>
+    <s:tag>beige</s:tag>
+    <s:tag>crop</s:tag>
+    <s:tag>LINEN</s:tag>
+    <s:tag>size-12</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>8 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BEIGE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>10 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BEIGE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>12 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BEIGE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>14 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BEIGE</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>8 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BLACK</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>10 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BLACK</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>12 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BLACK</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492286004</id>
+      <title>14 / Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>M-20100603-BLACK</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+    <published>2021-03-05T15:47:49-05:00</published>
+    <updated>2021-03-05T15:47:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/jane-top"/>
+    <title>Jane Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Indikah</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210218TaneishaStudio14288.jpg?v=1614961452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Indikah<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>6 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-PINK</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>8 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-PINK</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>10 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-PINK</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>12 / Pink</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-PINK</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>6 / Green</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-GREEN</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>8 / Green</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-GREEN</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>10 / Green</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-GREEN</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>12 / Green</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-GREEN</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>6 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-BEIGE</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>8 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-BEIGE</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>10 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-BEIGE</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492253236</id>
+      <title>12 / Beige</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>27649B-T-BEIGE</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+    <published>2021-03-05T15:47:49-05:00</published>
+    <updated>2021-03-05T15:47:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/kamila-knit"/>
+    <title>Kamila Knit</title>
+    <s:type>Tops</s:type>
+    <s:vendor>LITTLE LIES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210218TaneishaStudio14037.jpg?v=1614961434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>LITTLE LIES<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sage</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>S / Sage</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-SAGE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>M / Sage</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-SAGE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>L / Sage</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-SAGE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>S / White</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-WHITE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>M / White</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-WHITE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492154932</id>
+      <title>L / White</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>S18111513-WHITE</s:sku>
+      <s:grams>334</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492122164</id>
+    <published>2021-03-05T15:47:49-05:00</published>
+    <updated>2021-03-05T15:47:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/grove-top"/>
+    <title>Grove Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>SASSY HILLS FASHION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_07TaneishaStudio6524.jpg?v=1614961426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>SASSY HILLS FASHION<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492122164</id>
+      <title>S</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>DJ00155-1-BEIGESTRIPE</s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492122164</id>
+      <title>M</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>DJ00155-1-BEIGESTRIPE</s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492089396</id>
+    <published>2021-03-05T15:47:48-05:00</published>
+    <updated>2021-03-05T15:47:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/evie-top"/>
+    <title>Evie Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>REVERSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210225LiliStudio15352.jpg?v=1614961417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>REVERSE<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492089396</id>
+      <title>S</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PINK</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492089396</id>
+      <title>M</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PINK</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492089396</id>
+      <title>L</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PINK</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+    <published>2021-03-05T15:47:48-05:00</published>
+    <updated>2021-03-05T15:47:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/odessa-top"/>
+    <title>Evie Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>REVERSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_14TaneishaStudio8222.jpg?v=1614976543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>REVERSE<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>S / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-WHITE</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>M / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-WHITE</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>L / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-WHITE</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>S / Peach</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PEACH</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>M / Peach</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PEACH</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492056628</id>
+      <title>L / Peach</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1208#-PEACH</s:sku>
+      <s:grams>256</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+    <published>2021-03-05T15:47:47-05:00</published>
+    <updated>2021-03-05T15:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/cool-breeze-top"/>
+    <title>Cool Breeze Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>PINK DIAMOND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_07TaneishaStudio7129.jpg?v=1614961389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>PINK DIAMOND<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>6 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-WHITE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>8 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-WHITE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>10 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-WHITE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>12 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-WHITE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>14 / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-WHITE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>6 / Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-CHOCOLATE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>8 / Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-CHOCOLATE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>10 / Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-CHOCOLATE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>12 / Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-CHOCOLATE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>14 / Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-CHOCOLATE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>6 / Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-BEIGE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>8 / Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-BEIGE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>10 / Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-BEIGE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>12 / Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-BEIGE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>14 / Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-BEIGE</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>6 / Pink</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-PINK</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>8 / Pink</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-PINK</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>10 / Pink</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-PINK</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>12 / Pink</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-PINK</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536492023860</id>
+      <title>14 / Pink</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TA3813#-PINK</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+    <published>2021-03-05T15:47:47-05:00</published>
+    <updated>2021-03-05T15:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/bali-top"/>
+    <title>Bali Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>SNDYS.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13863.jpg?v=1614961364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>SNDYS.<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Cobalt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>XS / Cream</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-CREAM</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>S / Cream</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-CREAM</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>M / Cream</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-CREAM</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>L / Cream</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-CREAM</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>XS / Cobalt</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-BLUE</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>S / Cobalt</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-BLUE</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>M / Cobalt</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-BLUE</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491892788</id>
+      <title>L / Cobalt</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>SFT110S-BLUE</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536491827252</id>
+    <published>2021-03-05T15:47:47-05:00</published>
+    <updated>2021-03-05T15:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/carla-knit-top"/>
+    <title>Carla Knit Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>LITTLE LIES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/210211ActualTaneishaStudio13914.jpg?v=1614961354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>LITTLE LIES<br>
+        <strong>Tipo: </strong>Tops<br>
+        <strong>Preço: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beige</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491827252</id>
+      <title>S</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>S20102811-BEIGE</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491827252</id>
+      <title>M</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>S20102811-BEIGE</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491827252</id>
+      <title>L</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>S20102811-BEIGE</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+    <published>2021-03-05T15:47:47-05:00</published>
+    <updated>2021-03-05T15:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://testament.myshopify.com/pt-br/products/bella-shirt"/>
+    <title>Bella Shirt</title>
+    <s:type>tops</s:type>
+    <s:vendor>SNDYS.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0352/5133/products/21_01_07TaneishaStudio6630.jpg?v=1614976372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>SNDYS.<br>
+        <strong>Tipo: </strong>tops<br>
+        <strong>Preço: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This demo product for the Testament Shopify theme is not available for purchase from this store.</p>
+<p><strong>Details</strong></p>
+<ul>
+<li>Relaxed fit</li>
+<li>Unlined, not sheer</li>
+</ul>
+<p><strong>Garment Care</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>Cold Hand Wash Separately</li>
+</ul>
+<p><strong>Sizing</strong></p>
+<ul>
+<li>Model wears size S and is 174cm tall</li>
+<li>Stats: Bust 77cm/ Waist 61cm/ Hips 93cm</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<p>This product can be purchased from <a target="_blank" href="https://runwayscout.com/"><strong>Runway Scout</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>Top</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>XS / Pink</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-PINK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-PINK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-PINK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-PINK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>XS / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-BLACK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>S / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-BLACK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>M / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-BLACK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>L / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-BLACK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>XS / Tan</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-TAN</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>S / Tan</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-TAN</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>M / Tan</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-TAN</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>L / Tan</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-TAN</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>XS / White</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-WHITE</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>S / White</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-WHITE</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>M / White</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-WHITE</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://testament.myshopify.com/pt-br/products/6536491794484</id>
+      <title>L / White</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>SET202-WHITE</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+</feed>
